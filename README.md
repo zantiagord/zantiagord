@@ -1,6 +1,6 @@
 ### Hi there 👋
-🔭 I’m currently working on ... <br>
-Python developer, Geoinformation & Remote Sensing <br>
+🔭 I’m currently working on  GeoAgro by TEK.
+Python Senior Backend & <br>
 Amazon Web Services Cloud (AWS)
 
 # Python
