@@ -1,5 +1,4 @@
 ### Hi there 👋
-🔭 I’m currently working on  GeoAgro by TEK.
 Python Senior Backend & <br>
 Amazon Web Services Cloud (AWS)
 
